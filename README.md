@@ -1,4 +1,4 @@
-# Simple-Player-Players-Position-Script-Roblox
+# Simple-Player-Position-Script-Roblox
 Simple-Player-Players-Position-Script-Roblox
 Get exact player positions in Roblox and use them for teleporting or tracking!
 
