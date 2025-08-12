@@ -11,6 +11,11 @@ This repo contains two useful scripts for tracking player positions in Roblox:
 This script tracks your own position in the game world.
 It constantly updates your coordinates to show exactly where YOU are.
 
+User Position LoadString: loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple-Player-Players-Postion-Script-Roblox/main/User%20Position.lua"))()
+
+Players Position Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple-Player-Players-Postion-Script-Roblox/main/Players%20Position.lua"))()
+
+
 Use cases:
 
 Personal navigation
