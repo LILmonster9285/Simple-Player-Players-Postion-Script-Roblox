@@ -20,9 +20,7 @@ Creating custom UI tied to your position
 
 Loadstring:
 
-lua
-Copy
-Edit
+#COPY FOR USER POSITON
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple-Player-Players-Postion-Script-Roblox/main/User%20Position.lua"))()
@@ -42,9 +40,8 @@ Implementing gameplay features depending on player positions
 
 Loadstring:
 
-lua
-Copy
-Edit
+#COPY FOR PLAYERS POSITION
+
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple-Player-Players-Postion-Script-Roblox/main/Players%20Position.lua"))()
 ```
