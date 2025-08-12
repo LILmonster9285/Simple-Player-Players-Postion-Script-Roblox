@@ -1,7 +1,7 @@
 # Simple-Player-Players-Position-Script-Roblox
 You can use this to get your players exact location in game and use it to teleport
 
-This is made by chatgpt ofc bc I"m to lazy to write a #README
+This is made by chatgpt ofc bc I'm to lazy to write a #README
 
 
 Position Tracking Scripts 📍
