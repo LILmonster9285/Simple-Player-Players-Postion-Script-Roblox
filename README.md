@@ -23,7 +23,10 @@ Loadstring:
 lua
 Copy
 Edit
+
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple-Player-Players-Postion-Script-Roblox/main/User%20Position.lua"))()
+```
 2. All Players Position Viewer 👥
 Tracks the positions of all players in the game simultaneously.
 
@@ -42,5 +45,7 @@ Loadstring:
 lua
 Copy
 Edit
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple-Player-Players-Postion-Script-Roblox/main/Players%20Position.lua"))()
+```
 Made by ChatGPT (because I was too lazy to write this myself 😄)
