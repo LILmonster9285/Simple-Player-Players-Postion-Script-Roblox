@@ -8,16 +8,6 @@ This repo contains two useful Roblox scripts for tracking player positions:
 1. Player Position Tracker 👤
 Tracks your own position in the game world.
 
-Continuously updates your coordinates so you know exactly where you are.
-
-Use cases:
-
-Personal navigation
-
-Debugging your character’s location
-
-Creating custom UI tied to your position
-
 Loadstring:
 
 #COPY FOR USER POSITON
@@ -27,16 +17,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LILmonster9285/Simple
 ```
 2. All Players Position Viewer 👥
 Tracks the positions of all players in the game simultaneously.
-
-Collects and displays coordinates of every player in real-time.
-
-Use cases:
-
-Monitoring player locations
-
-Building multiplayer maps
-
-Implementing gameplay features depending on player positions
 
 Loadstring:
 
